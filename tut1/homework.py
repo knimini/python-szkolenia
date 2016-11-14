@@ -51,6 +51,22 @@ napisz ciało funkcji rotate_array (pod treścią zadania) która
     (btw, nowa rzecz, defaulty w argumentach funkcji)
 2) zwraca tablicę obróconą o 90stopni * ilość obrotów do wykonania (default 1)
 
+tak więc dla takiej tablicy i num_of_rotations=1
+
+1 1 0 0
+1 1 1 1
+0 1 0 0
+0 1 1 0
+
+funkcja powinna zwrócić
+
+0 0 1 1
+1 1 1 1
+1 0 1 0
+0 0 1 0
+
+przyjmijmy, że obracamy zgodnie z ruchem wskazówek zegara
+
 dopisałem wam metodę do wyświetlania tablic i jakieś przykładową tablice do testów
 jak odpalicie ten plik używając
 
