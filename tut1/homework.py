@@ -45,7 +45,7 @@ Stworz liste skladajaca sie tylko z liczb parzystych mniejszych od 30
 '''
 ZADANIE DLA CHĘTNYCH/BARDZIEJ ZAAWANSOWANYCH Z GWIAZDKĄ -> *
 
-napisz ciało funkcji rotate_array (pod treścią zadania) która
+napisz ciało funkcji rotate_2d_array (pod treścią zadania) która
 
 1) jako argument przyjmuje tablice 2wymiarową oraz opcjonalnie liczbę obrotów które wykonać
     (btw, nowa rzecz, defaulty w argumentach funkcji)
