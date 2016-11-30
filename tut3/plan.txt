@@ -1,0 +1,7 @@
+0. Omówić ogólnie - web API, rysowanie wykresu.
+    - API - Application Programming Interface.
+1. Zainstalować bibliotekę „requests”.
+2. Zobaczyć jak można używać JSON-owego API w Pythonie.
+3. Zainstalować bibliotekę „matplotlib”.
+4. Narysować coś prostego.
+5. Narysować wykres danych z API.
