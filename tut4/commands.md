@@ -25,5 +25,5 @@ gunicorn images_api --reload
 
 #### Postowanie obrazka
 ```
-http POST localhost:8000/v1/images Content-Type:image/jpeg < <path_do_pliku>
+http POST localhost:8000/v1/images Content-Type:image/jpeg < path_do_pliku
 ```
